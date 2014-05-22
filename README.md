@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Puppet module for Transmit
 
 [![Build Status](https://travis-ci.org/boxen/puppet-transmit.png)](https://travis-ci.org/boxen/puppet-transmit)
