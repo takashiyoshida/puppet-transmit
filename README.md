@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Puppet module for Transmit
 
 [![Build Status](https://travis-ci.org/boxen/puppet-transmit.png)](https://travis-ci.org/boxen/puppet-transmit)
@@ -9,8 +10,8 @@ http://panic.com/transmit/
 ## Required Puppet Modules
 
 * `boxen`
+<<<<<<< HEAD
 
 ## Development
 
-Write code. Run `script/cibuild` to test it. Check the `script`
-directory for other useful tools.
+Write code. Run `script/cibuild` to test it. Check the `script` directory for other useful tools.
