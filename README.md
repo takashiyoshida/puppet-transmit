@@ -9,7 +9,6 @@ http://panic.com/transmit/
 ## Required Puppet Modules
 
 * `boxen`
-<<<<<<< HEAD
 
 ## Development
 
